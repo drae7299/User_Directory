@@ -13,8 +13,9 @@ code {
 }
 
 .jumbotron {
-  background-color: rgb(128, 47, 0);
+  background-color: rgba(128, 47, 0, 0.568);
   border-bottom: solid 4px rgb(17, 0, 255);
+  color: black;
   
 }
 
