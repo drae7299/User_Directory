@@ -5,6 +5,7 @@ import TableData from "../TableData";
 import TableHeader from "../TableHeader";
 import getEmployeeName from "../../util/API";
 
+//filtering still not happening here, any adivce would be great!
 export default class TableArea extends React.Component {
   state = {
     search: "name",
