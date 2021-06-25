@@ -1,6 +1,7 @@
 import React from "react";
-
+//Funtionality to filter is not present unfortunately, could not figure this out 
 export default class SearchBar extends React.Component {
+
   render() {
     return (
       <div>
